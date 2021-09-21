@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ZaidMGames, an aspiring Software engineer.
-Looking to advance my knowledge on PYthon, Javascript and more in the future.
-
-
+- 👋 Hi, I’m Zaid
+- An Aspiring Sofware Engineer who occasionally codes stuff at home and plays a bunch of games
+- Currently stuck in education learning some stuff
+- 
 
